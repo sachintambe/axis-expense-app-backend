@@ -1,0 +1,6 @@
+projectKey=Expense1
+serverUrl=http://localhost:9000
+serverVersion=9.7.1.62043
+dashboardUrl=http://localhost:9000/dashboard?id=Expense1
+ceTaskId=AYVNqNkZKKc-d-gA8LqU
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYVNqNkZKKc-d-gA8LqU
